@@ -1,0 +1,6 @@
+{
+	"parent": "block/fence_side",
+	"textures": {
+		"texture": "immersiveposts:blocks/constantan_fence_side"
+	}
+}
